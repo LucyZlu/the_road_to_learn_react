@@ -1,0 +1,27 @@
+.largeColumn{
+    width:40%
+}
+
+.middleColumn{
+    width:30%
+}
+.smallColumn{
+    width:10%
+}
+
+.button-inline {
+    border-width: 0;
+    background: transparent;
+    color: inherit;
+    text-align: inherit;
+    -webkit-font-smoothing: inherit;
+    padding: 0;
+    font-size: inherit;
+    cursor: pointer;
+  }
+  
+  .button-active {
+    border-radius: 0;
+    border-bottom: 1px solid #38BB6C;
+  }
+  
